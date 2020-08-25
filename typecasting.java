@@ -1,4 +1,4 @@
-package datatype;
+
 
 public class typecasting {
 
