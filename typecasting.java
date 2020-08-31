@@ -9,17 +9,19 @@ public class typecasting {
 		long b = a;
 		double c = b;
 		
-		System.out.println(a);
-		System.out.println(b);
-		System.out.println(c);
+		// System.out.println(a);
+		// System.out.println(b);
+		// System.out.println(c);
 		
-		double m = 86.73;
-		long s = (long) m;
-		byte n = (byte) s;
+		// double m = 86.73;
+		// long s = (long) m;
+		// byte n = (byte) s;
 		
-		System.out.println(m);
-		System.out.println(s);
-		System.out.println(n);
+		// System.out.println(m);
+		// System.out.println(s);
+		// System.out.println(n);
+
+		System.out.println("Hello Welcome to Devops Tutorial");
 
 	}
 
