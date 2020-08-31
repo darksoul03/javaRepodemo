@@ -21,7 +21,7 @@ public class typecasting {
 		// System.out.println(s);
 		// System.out.println(n);
 
-		System.out.println("Hello Welcome to Devops Tutorial");
+		System.out.println("Congrats jenkins is now webhooked");
 
 	}
 
