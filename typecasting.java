@@ -21,7 +21,7 @@ public class typecasting {
 		// System.out.println(s);
 		// System.out.println(n);
 
-		System.out.println("Congrats jenkins is now webhooked");
+		System.out.println("Congrats jenkins is now webhooked-1");
 
 	}
 
